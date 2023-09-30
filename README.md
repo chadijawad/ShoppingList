@@ -1,6 +1,26 @@
 # shopping_list
-
 A new Flutter project.
+
+# Flutter Firebase Practice
+
+This Flutter project is aimed at practicing various aspects of app development using Flutter and Firebase.
+
+## Overview
+
+In this project, we focus on two main aspects:
+
+1. **Practicing Forms Widget in Flutter:**
+   - Utilizing Flutter's `Form` widget to handle user inputs.
+   - Implementing input validation and saving user input data.
+   
+2. **Practicing Firebase and HTTP Requests:**
+   - Making HTTP requests to Firebase for:
+     - Posting data to Firebase Realtime Database.
+     - Retrieving data from Firebase Realtime Database.
+     - Deleting data from Firebase Realtime Database.
+
+3. **Handling Errors During HTTP Requests:**
+   - Implementing error handling for HTTP requests to gracefully handle issues that may occur during network interactions with Firebase Realtime Database.
 
 ## Getting Started
 
